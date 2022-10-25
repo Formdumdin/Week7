@@ -18,7 +18,7 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link" >home</a>
+            <a class="nav-link disabled">Home</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="Report.html">About me</a>
